@@ -52,7 +52,7 @@
 ## Deploy
 You can deploy this bot anywhere.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+
 
 <details><summary>Deploy To VPS</summary>
 <p>
@@ -100,35 +100,3 @@ python3 bot.py
 • /batch - to create link for multiple posts
 • /link - to create link for one post
 ```
-## Support
-[𝘿𝙆_𝘽𝙊𝙏𝙭](https://telegram.dog/dk_botx)
-
-## Bot
-
-[𝙏𝙤𝙫𝙞𝙣𝙤 𝘽𝙤𝙩](https://telegram.dog/filesearchxbot)
-
-## Credits 
-* [𝘉𝘈𝘚𝘌 𝘙𝘌𝘗𝘖 𝘜𝘚𝘌𝘋](https://github.com/EvamariaTG/EvaMaria)
-
-## Thanks to 
- - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
- - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
- - Thanks To All Everyone In This Journey
-
-### Note
-
-[𝘊𝘳𝘦𝘢𝘵𝘰𝘳](https://telegram.dog/aboutme_dk)
-
-Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
-Fork the repo and edit as per your needs. 𝘛𝘩𝘦𝘴𝘦 𝘢𝘳𝘦 𝘭𝘪𝘯𝘦𝘴 𝘧𝘳𝘰𝘮 𝘦𝘷𝘢 𝘥𝘦𝘷𝘴 , 𝘪𝘵𝘴 𝘳𝘪𝘨𝘩𝘵 𝘢𝘣𝘰𝘶𝘵 𝘮𝘦 . 
-
-## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/DKBOTx/TovinoBotV3/blob/main/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
-
-## 𝙏𝙍𝙄𝘽𝙐𝙏𝙀 𝙏𝙊
-
-𝘍𝘰𝘳 𝘛𝘩𝘰𝘴𝘦 𝘨𝘶𝘺𝘴 𝘴𝘵𝘰𝘭𝘦 𝘤𝘰𝘥𝘦𝘴 🥲🤧
-
